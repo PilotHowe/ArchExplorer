@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "project": "<project-name>",
+  "source": {
+    "path": "<relative-source-path>",
+    "remote": null,
+    "revision": null,
+    "analyzed_at": "YYYY-MM-DD"
+  },
+  "overview": {
+    "doc": "00-overview.md",
+    "diagram": "diagrams/architecture.mmd"
+  },
+  "modules": [
+    {
+      "id": "<module-id>",
+      "path": "<module-path>",
+      "role": "<one-line-role>",
+      "entry_points": [],
+      "keywords": []
+    }
+  ],
+  "feature_candidates": {
+    "<feature-id>": {
+      "label": "<中文名称>",
+      "why_interesting": "<值得深潜的原因>",
+      "anchors": [],
+      "keywords": []
+    }
+  },
+  "topics": {},
+  "faq_routes": {}
+}
