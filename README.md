@@ -1,4 +1,4 @@
-# opensource-aiproject-explorer
+# ArchExplorer/ opensource-aiproject-explorer
 
 **开源项目架构与特性设计分析 Skill：读懂业务逻辑，再判断哪些值得借鉴。**
 
